@@ -1,14 +1,6 @@
-# CSCI3010-demo-Lec6
+# CSCI3010-demo-Lec8
 
-[![Build Status](https://travis-ci.org/CSCI-3010-CUBoulder/CSCI3010-demo-Lec6.svg?branch=master)](https://travis-ci.org/CSCI-3010-CUBoulder/CSCI3010-demo-Lec6)
+Rpository pulled from "https://github.com/CSCI-3010-CUBoulder/CSCI3010-demo-Lec6.git" and edited following lecture activity
 
-This is some random text.
 
-I have done something. THis is something more than that.
-
-This is some random text.  I added a new sentence. I am adding something more.
-
-I am also working on this.
-This is some random text.  I added a new sentence. I am adding something more. I added yet another sentence.
-
-I am adding more content
+ 
